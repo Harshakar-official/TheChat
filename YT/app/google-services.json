@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309546009238",
+    "project_id": "thechatapp-81",
+    "storage_bucket": "thechatapp-81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309546009238:android:72409302e6212b633d38b7",
+        "android_client_info": {
+          "package_name": "com.example.chattingapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmhmkbScLy8m9R74h8aSR0rFX9FLQ4n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
